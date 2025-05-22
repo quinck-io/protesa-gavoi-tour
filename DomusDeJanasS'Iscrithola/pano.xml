@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20986" appversion="7.1.8" start="node93" hassounds="0">
+  <panorama id="node76">
+    <input stereo="1" levelingroll="0" levelbiashidpi="1.000" width="1920" levelingpitch="0" height="1920" levelbias="0.400" leveltileurl="tiles/node76/cf_%c/l_%l/c_%x/tile_%y.jpg" fliplr="0" overlap="1" leveltilesize="510">
+      <level height="1920" predecode="0" width="1920" preload="0"/>
+      <level height="960" predecode="0" width="960" preload="0"/>
+      <level height="480" predecode="1" width="480" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata tags="Stitched_2025_04_02" nodeid="node76" heading="0" author="" description="" comment="" latitude="" copyright="" datetime="2025:03:27 09:31:07" customnodeid="" info="" longitude="" source="" title=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label background="1" backgroundcolor="0xffffff" borderradius="1" width="180" backgroundalpha="1" height="20" enabled="1" bordercolor="0x000000" borderalpha="1" border="1" textalpha="1" textcolor="0x000000" wordwrap="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node93}" target="" tilt="-4.85" id="Point01" skinid="ht_node" description="" pan="-123.18" title=""/>
+      <hotspot url="{node77}" target="-109.3/-4.0/100.0" tilt="1.75" id="Point02" skinid="ht_node" description="" pan="-303.36" title=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomspeed="2" zoomafterinfov="140" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" zoomin="0" enabled="1" softedge="0" zoomout="0" type="crossdissolve" blendcolor="0x000000" delay="none"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" hideabout="0" invertwheel="0" lockedkeyboardzoom="0" sensitivity="8" zoomcentercursor="1" contextprojections="0"/>
+    <vr defaulthsscale="100" toggleskinbutton="1" skinbuttonposition="0"/>
+  </panorama>
+  <panorama id="node77">
+    <input stereo="1" levelingroll="0" levelbiashidpi="1.000" width="1920" levelingpitch="0" height="1920" levelbias="0.400" leveltileurl="tiles/node77/cf_%c/l_%l/c_%x/tile_%y.jpg" fliplr="0" overlap="1" leveltilesize="510">
+      <level height="1920" predecode="0" width="1920" preload="0"/>
+      <level height="960" predecode="0" width="960" preload="0"/>
+      <level height="480" predecode="1" width="480" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="180" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata tags="Stitched_2025_04_02" nodeid="node77" altitude="664.20" author="" heading="180" description="" comment="" latitude="40.137951" copyright="" datetime="2025:03:27 09:32:16" customnodeid="" info="" longitude="9.212582" source="" title=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label background="1" backgroundcolor="0xffffff" borderradius="1" width="180" backgroundalpha="1" height="20" enabled="1" bordercolor="0x000000" borderalpha="1" border="1" textalpha="1" textcolor="0x000000" wordwrap="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-76.18" target="-160.9/-2.3/100.0" skinid="ht_node" description="" url="{node78}" tilt="-0.17" id="Point01" title="" distance="12.2276"/>
+      <hotspot pan="-163.52" target="-71.5/7.3/100.0" skinid="ht_node" description="" url="{node81}" tilt="12.35" id="Point02" title="" distance="12.7651"/>
+      <hotspot url="{node76}" target="" tilt="-15.58" id="Point03" skinid="ht_node" description="" pan="-250.05" title=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomspeed="2" zoomafterinfov="140" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" zoomin="0" enabled="1" softedge="0" zoomout="0" type="crossdissolve" blendcolor="0x000000" delay="none"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" hideabout="0" invertwheel="0" lockedkeyboardzoom="0" sensitivity="8" zoomcentercursor="1" contextprojections="0"/>
+    <vr defaulthsscale="100" toggleskinbutton="1" skinbuttonposition="0"/>
+  </panorama>
+  <panorama id="node78">
+    <input stereo="1" levelingroll="0" levelbiashidpi="1.000" width="1920" levelingpitch="0" height="1920" levelbias="0.400" leveltileurl="tiles/node78/cf_%c/l_%l/c_%x/tile_%y.jpg" fliplr="0" overlap="1" leveltilesize="510">
+      <level height="1920" predecode="0" width="1920" preload="0"/>
+      <level height="960" predecode="0" width="960" preload="0"/>
+      <level height="480" predecode="1" width="480" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="90" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata tags="Stitched_2025_04_02" nodeid="node78" altitude="662.70" author="" heading="90" description="" comment="" latitude="40.137882" copyright="" datetime="2025:03:27 09:32:54" customnodeid="" info="" longitude="9.212470" source="" title=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label background="1" backgroundcolor="0xffffff" borderradius="1" width="180" backgroundalpha="1" height="20" enabled="1" bordercolor="0x000000" borderalpha="1" border="1" textalpha="1" textcolor="0x000000" wordwrap="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-335.39" target="105.1/-9.1/100.0" skinid="ht_node" description="" url="{node77}" tilt="-5.13" id="Point01" title="" distance="12.2276"/>
+      <hotspot pan="-253.34" target="118.4/-11.2/100.0" skinid="ht_node" description="" url="{node79}" tilt="5.72" id="Point02" title="" distance="3.64253"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomspeed="2" zoomafterinfov="140" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" zoomin="0" enabled="1" softedge="0" zoomout="0" type="crossdissolve" blendcolor="0x000000" delay="none"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" hideabout="0" invertwheel="0" lockedkeyboardzoom="0" sensitivity="8" zoomcentercursor="1" contextprojections="0"/>
+    <vr defaulthsscale="100" toggleskinbutton="1" skinbuttonposition="0"/>
+  </panorama>
+  <panorama id="node79">
+    <input stereo="1" levelingroll="0" levelbiashidpi="1.000" width="1920" levelingpitch="0" height="1920" levelbias="0.400" leveltileurl="tiles/node79/cf_%c/l_%l/c_%x/tile_%y.jpg" fliplr="0" overlap="1" leveltilesize="510">
+      <level height="1920" predecode="0" width="1920" preload="0"/>
+      <level height="960" predecode="0" width="960" preload="0"/>
+      <level height="480" predecode="1" width="480" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="47" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata tags="Stitched_2025_04_02" nodeid="node79" altitude="664.60" author="" heading="47" description="" comment="" latitude="40.13790363" copyright="" datetime="2025:03:27 09:33:42" customnodeid="" info="" longitude="9.21243782" source="" title=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label background="1" backgroundcolor="0xffffff" borderradius="1" width="180" backgroundalpha="1" height="20" enabled="1" bordercolor="0x000000" borderalpha="1" border="1" textalpha="1" textcolor="0x000000" wordwrap="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-67.18" target="-44.0/-7.3/100.0" skinid="ht_node" description="" url="{node78}" tilt="-23.43" id="Point01" title="" distance="3.64253"/>
+      <hotspot pan="-191.92" target="-126.5/0.4/100.0" skinid="ht_node" description="" url="{node80}" tilt="-11.24" id="Point02" title="" distance="5.24704"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomspeed="2" zoomafterinfov="140" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" zoomin="0" enabled="1" softedge="0" zoomout="0" type="crossdissolve" blendcolor="0x000000" delay="none"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" hideabout="0" invertwheel="0" lockedkeyboardzoom="0" sensitivity="8" zoomcentercursor="1" contextprojections="0"/>
+    <vr defaulthsscale="100" toggleskinbutton="1" skinbuttonposition="0"/>
+  </panorama>
+  <panorama id="node80">
+    <input stereo="1" levelingroll="0" levelbiashidpi="1.000" width="1920" levelingpitch="0" height="1920" levelbias="0.400" leveltileurl="tiles/node80/cf_%c/l_%l/c_%x/tile_%y.jpg" fliplr="0" overlap="1" leveltilesize="510">
+      <level height="1920" predecode="0" width="1920" preload="0"/>
+      <level height="960" predecode="0" width="960" preload="0"/>
+      <level height="480" predecode="1" width="480" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata tags="Stitched_2025_04_02" nodeid="node80" altitude="665.70" author="" heading="0" description="" comment="" latitude="40.137892" copyright="" datetime="2025:03:27 09:35:23" customnodeid="" info="" longitude="9.212378" source="" title=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label background="1" backgroundcolor="0xffffff" borderradius="1" width="180" backgroundalpha="1" height="20" enabled="1" bordercolor="0x000000" borderalpha="1" border="1" textalpha="1" textcolor="0x000000" wordwrap="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-264.27" target="-61.4/-14.4/100.0" skinid="ht_node" description="" url="{node79}" tilt="-25.26" id="Point01" title="" distance="5.24704"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomspeed="2" zoomafterinfov="140" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" zoomin="0" enabled="1" softedge="0" zoomout="0" type="crossdissolve" blendcolor="0x000000" delay="none"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" hideabout="0" invertwheel="0" lockedkeyboardzoom="0" sensitivity="8" zoomcentercursor="1" contextprojections="0"/>
+    <vr defaulthsscale="100" toggleskinbutton="1" skinbuttonposition="0"/>
+  </panorama>
+  <panorama id="node81">
+    <input stereo="1" levelingroll="0" levelbiashidpi="1.000" width="1920" levelingpitch="0" height="1920" levelbias="0.400" leveltileurl="tiles/node81/cf_%c/l_%l/c_%x/tile_%y.jpg" fliplr="0" overlap="1" leveltilesize="510">
+      <level height="1920" predecode="0" width="1920" preload="0"/>
+      <level height="960" predecode="0" width="960" preload="0"/>
+      <level height="480" predecode="1" width="480" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-45" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata tags="Stitched_2025_04_02" nodeid="node81" altitude="665.50" author="" heading="-45" description="" comment="" latitude="40.138022" copyright="" datetime="2025:03:27 09:36:37" customnodeid="" info="" longitude="9.212464" source="" title=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label background="1" backgroundcolor="0xffffff" borderradius="1" width="180" backgroundalpha="1" height="20" enabled="1" bordercolor="0x000000" borderalpha="1" border="1" textalpha="1" textcolor="0x000000" wordwrap="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-235.36" target="" skinid="ht_node" description="" url="{node77}" tilt="-20.05" id="Point01" title="" distance="12.7651"/>
+      <hotspot pan="-65.41" target="-71.3/-2.0/100.0" skinid="ht_node" description="" url="{node82}" tilt="-10.12" id="Point02" title="" distance="4.21914"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomspeed="2" zoomafterinfov="140" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" zoomin="0" enabled="1" softedge="0" zoomout="0" type="crossdissolve" blendcolor="0x000000" delay="none"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" hideabout="0" invertwheel="0" lockedkeyboardzoom="0" sensitivity="8" zoomcentercursor="1" contextprojections="0"/>
+    <vr defaulthsscale="100" toggleskinbutton="1" skinbuttonposition="0"/>
+  </panorama>
+  <panorama id="node82">
+    <input stereo="1" levelingroll="0" levelbiashidpi="1.000" width="1920" levelingpitch="0" height="1920" levelbias="0.400" leveltileurl="tiles/node82/cf_%c/l_%l/c_%x/tile_%y.jpg" fliplr="0" overlap="1" leveltilesize="510">
+      <level height="1920" predecode="0" width="1920" preload="0"/>
+      <level height="960" predecode="0" width="960" preload="0"/>
+      <level height="480" predecode="1" width="480" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-109" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata tags="Stitched_2025_04_02" nodeid="node82" altitude="666.40" author="" heading="-109" description="" comment="" latitude="40.138059" copyright="" datetime="2025:03:27 09:37:13" customnodeid="" info="" longitude="9.212453" source="" title=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label background="1" backgroundcolor="0xffffff" borderradius="1" width="180" backgroundalpha="1" height="20" enabled="1" bordercolor="0x000000" borderalpha="1" border="1" textalpha="1" textcolor="0x000000" wordwrap="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-311.55" target="87.9/-12.4/100.0" skinid="ht_node" description="" url="{node81}" tilt="-16.96" id="Point01" title="" distance="4.21914"/>
+      <hotspot pan="-141.1" target="-163.7/6.5/100.0" skinid="ht_node" description="" url="{node83}" tilt="-15.83" id="Point02" title="" distance="4.48691"/>
+      <hotspot pan="-19.68" target="-62.2/-0.3/100.0" skinid="ht_node" description="" url="{node88}" tilt="1.36" id="Point03" title="" distance="6.7193"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomspeed="2" zoomafterinfov="140" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" zoomin="0" enabled="1" softedge="0" zoomout="0" type="crossdissolve" blendcolor="0x000000" delay="none"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" hideabout="0" invertwheel="0" lockedkeyboardzoom="0" sensitivity="8" zoomcentercursor="1" contextprojections="0"/>
+    <vr defaulthsscale="100" toggleskinbutton="1" skinbuttonposition="0"/>
+  </panorama>
+  <panorama id="node83">
+    <input stereo="1" levelingroll="0" levelbiashidpi="1.000" width="1920" levelingpitch="0" height="1920" levelbias="0.400" leveltileurl="tiles/node83/cf_%c/l_%l/c_%x/tile_%y.jpg" fliplr="0" overlap="1" leveltilesize="510">
+      <level height="1920" predecode="0" width="1920" preload="0"/>
+      <level height="960" predecode="0" width="960" preload="0"/>
+      <level height="480" predecode="1" width="480" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="205" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata tags="Stitched_2025_04_02" nodeid="node83" altitude="665.20" author="" heading="205" description="" comment="" latitude="40.138074" copyright="" datetime="2025:03:27 09:37:53" customnodeid="" info="" longitude="9.212502" source="" title=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label background="1" backgroundcolor="0xffffff" borderradius="1" width="180" backgroundalpha="1" height="20" enabled="1" bordercolor="0x000000" borderalpha="1" border="1" textalpha="1" textcolor="0x000000" wordwrap="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-67.71" target="" skinid="ht_node" description="" url="{node82}" tilt="-5.25" id="Point01" title="" distance="4.48691"/>
+      <hotspot pan="-146.4" target="-121.1/-2.1/100.0" skinid="ht_node" description="" url="{node84}" tilt="0.3" id="Point02" title="" distance="6.0769"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomspeed="2" zoomafterinfov="140" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" zoomin="0" enabled="1" softedge="0" zoomout="0" type="crossdissolve" blendcolor="0x000000" delay="none"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" hideabout="0" invertwheel="0" lockedkeyboardzoom="0" sensitivity="8" zoomcentercursor="1" contextprojections="0"/>
+    <vr defaulthsscale="100" toggleskinbutton="1" skinbuttonposition="0"/>
+  </panorama>
+  <panorama id="node84">
+    <input stereo="1" levelingroll="0" levelbiashidpi="1.000" width="1920" levelingpitch="0" height="1920" levelbias="0.400" leveltileurl="tiles/node84/cf_%c/l_%l/c_%x/tile_%y.jpg" fliplr="0" overlap="1" leveltilesize="510">
+      <level height="1920" predecode="0" width="1920" preload="0"/>
+      <level height="960" predecode="0" width="960" preload="0"/>
+      <level height="480" predecode="1" width="480" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="180" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata tags="Stitched_2025_04_02" nodeid="node84" altitude="664.60" author="" heading="180" description="" comment="" latitude="40.138128" copyright="" datetime="2025:03:27 09:38:39" customnodeid="" info="" longitude="9.212491" source="" title=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label background="1" backgroundcolor="0xffffff" borderradius="1" width="180" backgroundalpha="1" height="20" enabled="1" bordercolor="0x000000" borderalpha="1" border="1" textalpha="1" textcolor="0x000000" wordwrap="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-326.87" target="" skinid="ht_node" description="" url="{node83}" tilt="-24.09" id="Point01" title="" distance="6.0769"/>
+      <hotspot pan="-122.01" target="-94.0/-1.4/100.0" skinid="ht_node" description="" url="{node85}" tilt="-5.07" id="Point02" title="" distance="5.31873"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomspeed="2" zoomafterinfov="140" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" zoomin="0" enabled="1" softedge="0" zoomout="0" type="crossdissolve" blendcolor="0x000000" delay="none"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" hideabout="0" invertwheel="0" lockedkeyboardzoom="0" sensitivity="8" zoomcentercursor="1" contextprojections="0"/>
+    <vr defaulthsscale="100" toggleskinbutton="1" skinbuttonposition="0"/>
+  </panorama>
+  <panorama id="node85">
+    <input stereo="1" levelingroll="0" levelbiashidpi="1.000" width="1920" levelingpitch="0" height="1920" levelbias="0.400" leveltileurl="tiles/node85/cf_%c/l_%l/c_%x/tile_%y.jpg" fliplr="0" overlap="1" leveltilesize="510">
+      <level height="1920" predecode="0" width="1920" preload="0"/>
+      <level height="960" predecode="0" width="960" preload="0"/>
+      <level height="480" predecode="1" width="480" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="207" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata tags="Stitched_2025_04_02" nodeid="node85" altitude="663.10" author="" heading="207" description="" comment="" latitude="40.138166" copyright="" datetime="2025:03:27 09:39:23" customnodeid="" info="" longitude="9.212453" source="" title=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label background="1" backgroundcolor="0xffffff" borderradius="1" width="180" backgroundalpha="1" height="20" enabled="1" bordercolor="0x000000" borderalpha="1" border="1" textalpha="1" textcolor="0x000000" wordwrap="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-287.53" target="" skinid="ht_node" description="" url="{node84}" tilt="-17.47" id="Point01" title="" distance="5.31873"/>
+      <hotspot pan="-128.29" target="-126.0/-1.1/100.0" skinid="ht_node" description="" url="{node86}" tilt="-16.79" id="Point02" title="" distance="7.33929"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomspeed="2" zoomafterinfov="140" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" zoomin="0" enabled="1" softedge="0" zoomout="0" type="crossdissolve" blendcolor="0x000000" delay="none"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" hideabout="0" invertwheel="0" lockedkeyboardzoom="0" sensitivity="8" zoomcentercursor="1" contextprojections="0"/>
+    <vr defaulthsscale="100" toggleskinbutton="1" skinbuttonposition="0"/>
+  </panorama>
+  <panorama id="node86">
+    <input stereo="1" levelingroll="0" levelbiashidpi="1.000" width="1920" levelingpitch="0" height="1920" levelbias="0.400" leveltileurl="tiles/node86/cf_%c/l_%l/c_%x/tile_%y.jpg" fliplr="0" overlap="1" leveltilesize="510">
+      <level height="1920" predecode="0" width="1920" preload="0"/>
+      <level height="960" predecode="0" width="960" preload="0"/>
+      <level height="480" predecode="1" width="480" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="178" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata tags="Stitched_2025_04_02" nodeid="node86" altitude="665.70" author="" heading="178" description="" comment="" latitude="40.138231" copyright="" datetime="2025:03:27 09:40:09" customnodeid="" info="" longitude="9.212438" source="" title=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label background="1" backgroundcolor="0xffffff" borderradius="1" width="180" backgroundalpha="1" height="20" enabled="1" bordercolor="0x000000" borderalpha="1" border="1" textalpha="1" textcolor="0x000000" wordwrap="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-348.44" target="" skinid="ht_node" description="" url="{node85}" tilt="-16.98" id="Point01" title="" distance="7.33929"/>
+      <hotspot pan="-127.4" target="-59.9/-2.0/100.0" skinid="ht_node" description="" url="{node87}" tilt="-0.03" id="Point02" title="" distance="5.77434"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomspeed="2" zoomafterinfov="140" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" zoomin="0" enabled="1" softedge="0" zoomout="0" type="crossdissolve" blendcolor="0x000000" delay="none"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" hideabout="0" invertwheel="0" lockedkeyboardzoom="0" sensitivity="8" zoomcentercursor="1" contextprojections="0"/>
+    <vr defaulthsscale="100" toggleskinbutton="1" skinbuttonposition="0"/>
+  </panorama>
+  <panorama id="node87">
+    <input stereo="1" levelingroll="0" levelbiashidpi="1.000" width="1920" levelingpitch="0" height="1920" levelbias="0.400" leveltileurl="tiles/node87/cf_%c/l_%l/c_%x/tile_%y.jpg" fliplr="0" overlap="1" leveltilesize="510">
+      <level height="1920" predecode="0" width="1920" preload="0"/>
+      <level height="960" predecode="0" width="960" preload="0"/>
+      <level height="480" predecode="1" width="480" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-162" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata tags="Stitched_2025_04_02" nodeid="node87" altitude="663.60" author="" heading="-162" description="" comment="" latitude="40.13826106" copyright="" datetime="2025:03:27 09:40:47" customnodeid="" info="" longitude="9.21238261" source="" title=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label background="1" backgroundcolor="0xffffff" borderradius="1" width="180" backgroundalpha="1" height="20" enabled="1" bordercolor="0x000000" borderalpha="1" border="1" textalpha="1" textcolor="0x000000" wordwrap="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-287" target="" skinid="ht_node" description="" url="{node86}" tilt="-16.36" id="Point01" title="" distance="5.77434"/>
+      <hotspot pan="-61.43" target="-50.9/12.9/100.0" skinid="ht_node" description="" url="{node90}" tilt="4.8" id="Point02" title="" distance="10.7143"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomspeed="2" zoomafterinfov="140" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" zoomin="0" enabled="1" softedge="0" zoomout="0" type="crossdissolve" blendcolor="0x000000" delay="none"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" hideabout="0" invertwheel="0" lockedkeyboardzoom="0" sensitivity="8" zoomcentercursor="1" contextprojections="0"/>
+    <vr defaulthsscale="100" toggleskinbutton="1" skinbuttonposition="0"/>
+  </panorama>
+  <panorama id="node88">
+    <input stereo="1" levelingroll="0" levelbiashidpi="1.000" width="1920" levelingpitch="0" height="1920" levelbias="0.400" leveltileurl="tiles/node88/cf_%c/l_%l/c_%x/tile_%y.jpg" fliplr="0" overlap="1" leveltilesize="510">
+      <level height="1920" predecode="0" width="1920" preload="0"/>
+      <level height="960" predecode="0" width="960" preload="0"/>
+      <level height="480" predecode="1" width="480" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-100" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata tags="Stitched_2025_04_02" nodeid="node88" altitude="665.00" author="" heading="-100" description="" comment="" latitude="40.138061" copyright="" datetime="2025:03:27 09:41:36" customnodeid="" info="" longitude="9.212374" source="" title=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label background="1" backgroundcolor="0xffffff" borderradius="1" width="180" backgroundalpha="1" height="20" enabled="1" bordercolor="0x000000" borderalpha="1" border="1" textalpha="1" textcolor="0x000000" wordwrap="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-225.79" target="137.2/-10.8/100.0" skinid="ht_node" description="" url="{node82}" tilt="-24.37" id="Point01" title="" distance="6.7193"/>
+      <hotspot pan="-24.4" target="-80.4/-1.8/100.0" skinid="ht_node" description="" url="{node89}" tilt="-0.77" id="Point02" title="" distance="5.71146"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomspeed="2" zoomafterinfov="140" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" zoomin="0" enabled="1" softedge="0" zoomout="0" type="crossdissolve" blendcolor="0x000000" delay="none"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" hideabout="0" invertwheel="0" lockedkeyboardzoom="0" sensitivity="8" zoomcentercursor="1" contextprojections="0"/>
+    <vr defaulthsscale="100" toggleskinbutton="1" skinbuttonposition="0"/>
+  </panorama>
+  <panorama id="node89">
+    <input stereo="1" levelingroll="0" levelbiashidpi="1.000" width="1920" levelingpitch="0" height="1920" levelbias="0.400" leveltileurl="tiles/node89/cf_%c/l_%l/c_%x/tile_%y.jpg" fliplr="0" overlap="1" leveltilesize="510">
+      <level height="1920" predecode="0" width="1920" preload="0"/>
+      <level height="960" predecode="0" width="960" preload="0"/>
+      <level height="480" predecode="1" width="480" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="209" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata tags="Stitched_2025_04_02" nodeid="node89" altitude="663.40" author="" heading="209" description="" comment="" latitude="40.138074" copyright="" datetime="2025:03:27 09:42:15" customnodeid="" info="" longitude="9.212309" source="" title=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label background="1" backgroundcolor="0xffffff" borderradius="1" width="180" backgroundalpha="1" height="20" enabled="1" bordercolor="0x000000" borderalpha="1" border="1" textalpha="1" textcolor="0x000000" wordwrap="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-220.82" target="100.1/-9.6/100.0" skinid="ht_node" description="" url="{node88}" tilt="-20.16" id="Point01" title="" distance="5.71146"/>
+      <hotspot pan="-124.83" target="-77.6/11.0/100.0" skinid="ht_node" description="" url="{node90}" tilt="-2.51" id="Point02" title="" distance="11.4984"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomspeed="2" zoomafterinfov="140" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" zoomin="0" enabled="1" softedge="0" zoomout="0" type="crossdissolve" blendcolor="0x000000" delay="none"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" hideabout="0" invertwheel="0" lockedkeyboardzoom="0" sensitivity="8" zoomcentercursor="1" contextprojections="0"/>
+    <vr defaulthsscale="100" toggleskinbutton="1" skinbuttonposition="0"/>
+  </panorama>
+  <panorama id="node90">
+    <input stereo="1" levelingroll="0" levelbiashidpi="1.000" width="1920" levelingpitch="0" height="1920" levelbias="0.400" leveltileurl="tiles/node90/cf_%c/l_%l/c_%x/tile_%y.jpg" fliplr="0" overlap="1" leveltilesize="510">
+      <level height="1920" predecode="0" width="1920" preload="0"/>
+      <level height="960" predecode="0" width="960" preload="0"/>
+      <level height="480" predecode="1" width="480" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="180" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata tags="Stitched_2025_04_02" nodeid="node90" altitude="666.90" author="" heading="180" description="" comment="" latitude="40.138177" copyright="" datetime="2025:03:27 09:43:04" customnodeid="" info="" longitude="9.212321" source="" title=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label background="1" backgroundcolor="0xffffff" borderradius="1" width="180" backgroundalpha="1" height="20" enabled="1" bordercolor="0x000000" borderalpha="1" border="1" textalpha="1" textcolor="0x000000" wordwrap="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-181.47" target="175.4/-9.3/100.0" skinid="ht_node" description="" url="{node87}" tilt="-7.51" id="Point01" title="" distance="10.7143"/>
+      <hotspot pan="-308.05" target="119.8/-17.3/100.0" skinid="ht_node" description="" url="{node89}" tilt="-9.75" id="Point02" title="" distance="11.4984"/>
+      <hotspot pan="-55.75" target="-77.4/8.5/100.0" skinid="ht_node" description="" url="{node91}" tilt="2.76" id="Point03" title="" distance="5.724"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomspeed="2" zoomafterinfov="140" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" zoomin="0" enabled="1" softedge="0" zoomout="0" type="crossdissolve" blendcolor="0x000000" delay="none"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" hideabout="0" invertwheel="0" lockedkeyboardzoom="0" sensitivity="8" zoomcentercursor="1" contextprojections="0"/>
+    <vr defaulthsscale="100" toggleskinbutton="1" skinbuttonposition="0"/>
+  </panorama>
+  <panorama id="node91">
+    <input stereo="1" levelingroll="0" levelbiashidpi="1.000" width="1920" levelingpitch="0" height="1920" levelbias="0.400" leveltileurl="tiles/node91/cf_%c/l_%l/c_%x/tile_%y.jpg" fliplr="0" overlap="1" leveltilesize="510">
+      <level height="1920" predecode="0" width="1920" preload="0"/>
+      <level height="960" predecode="0" width="960" preload="0"/>
+      <level height="480" predecode="1" width="480" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="180" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata tags="Stitched_2025_04_02" nodeid="node91" altitude="669.10" author="" heading="180" description="" comment="" latitude="40.138193" copyright="" datetime="2025:03:27 09:43:46" customnodeid="" info="" longitude="9.212257" source="" title=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label background="1" backgroundcolor="0xffffff" borderradius="1" width="180" backgroundalpha="1" height="20" enabled="1" bordercolor="0x000000" borderalpha="1" border="1" textalpha="1" textcolor="0x000000" wordwrap="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-288.41" target="63.9/-7.0/100.0" skinid="ht_node" description="" url="{node90}" tilt="-24.47" id="Point01" title="" distance="5.724"/>
+      <hotspot pan="-75.55" target="-70.8/-3.4/100.0" skinid="ht_node" description="" url="{node92}" tilt="4.7" id="Point02" title="" distance="2.69945"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomspeed="2" zoomafterinfov="140" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" zoomin="0" enabled="1" softedge="0" zoomout="0" type="crossdissolve" blendcolor="0x000000" delay="none"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" hideabout="0" invertwheel="0" lockedkeyboardzoom="0" sensitivity="8" zoomcentercursor="1" contextprojections="0"/>
+    <vr defaulthsscale="100" toggleskinbutton="1" skinbuttonposition="0"/>
+  </panorama>
+  <panorama id="node92">
+    <input stereo="1" levelingroll="0" levelbiashidpi="1.000" width="1920" levelingpitch="0" height="1920" levelbias="0.400" leveltileurl="tiles/node92/cf_%c/l_%l/c_%x/tile_%y.jpg" fliplr="0" overlap="1" leveltilesize="510">
+      <level height="1920" predecode="0" width="1920" preload="0"/>
+      <level height="960" predecode="0" width="960" preload="0"/>
+      <level height="480" predecode="1" width="480" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="180" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata tags="Stitched_2025_04_02" nodeid="node92" altitude="673.00" author="" heading="180" description="" comment="" latitude="40.138213" copyright="" datetime="2025:03:27 09:44:28" customnodeid="" info="" longitude="9.212239" source="" title=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label background="1" backgroundcolor="0xffffff" borderradius="1" width="180" backgroundalpha="1" height="20" enabled="1" bordercolor="0x000000" borderalpha="1" border="1" textalpha="1" textcolor="0x000000" wordwrap="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-261.85" target="78.5/-10.3/100.0" skinid="ht_node" description="" url="{node91}" tilt="-28.87" id="Point01" title="" distance="2.69945"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomspeed="2" zoomafterinfov="140" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" zoomin="0" enabled="1" softedge="0" zoomout="0" type="crossdissolve" blendcolor="0x000000" delay="none"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" hideabout="0" invertwheel="0" lockedkeyboardzoom="0" sensitivity="8" zoomcentercursor="1" contextprojections="0"/>
+    <vr defaulthsscale="100" toggleskinbutton="1" skinbuttonposition="0"/>
+  </panorama>
+  <panorama id="node93">
+    <input stereo="1" levelingroll="0" levelbiashidpi="1.000" width="1920" levelingpitch="0" height="1920" levelbias="0.400" leveltileurl="tiles/node93/cf_%c/l_%l/c_%x/tile_%y.jpg" fliplr="0" overlap="1" leveltilesize="510">
+      <level height="1920" predecode="0" width="1920" preload="0"/>
+      <level height="960" predecode="0" width="960" preload="0"/>
+      <level height="480" predecode="1" width="480" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata tags="Stitched_2025_04_02" nodeid="node93" altitude="649.70" author="" heading="0" description="" comment="" latitude="40.138143" copyright="" datetime="2025:03:27 09:48:54" customnodeid="" info="" longitude="9.213154" source="" title=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label background="1" backgroundcolor="0xffffff" borderradius="1" width="180" backgroundalpha="1" height="20" enabled="1" bordercolor="0x000000" borderalpha="1" border="1" textalpha="1" textcolor="0x000000" wordwrap="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node76}" target="53.7/4.5/100.0" tilt="0.61" id="Point01" skinid="ht_node" description="" pan="-231.79" title=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomspeed="2" zoomafterinfov="140" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" zoomin="0" enabled="1" softedge="0" zoomout="0" type="crossdissolve" blendcolor="0x000000" delay="none"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" speedwheel="1" contextfullscreen="1" contextvr="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" hideabout="0" invertwheel="0" lockedkeyboardzoom="0" sensitivity="8" zoomcentercursor="1" contextprojections="0"/>
+    <vr defaulthsscale="100" toggleskinbutton="1" skinbuttonposition="0"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" tags="" author="" description="" title="" comment=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
