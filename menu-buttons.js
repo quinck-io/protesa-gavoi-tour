@@ -11,13 +11,13 @@
   const styles = `
     <style id="virtual-tours-menu-styles">
       .vt-menu-container {
-        position: fixed !important;
+        position: absolute !important;
+        transform: translate3d(-50%, -50%, 0) !important;
         top: 20px;
         right: 20px;
         z-index: 999999 !important;
         font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
         pointer-events: auto !important;
-        transform: translateZ(0) !important;
         backface-visibility: hidden !important;
         will-change: transform, opacity !important;
       }
